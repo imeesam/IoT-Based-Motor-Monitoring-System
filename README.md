@@ -48,20 +48,17 @@ The system is paired with a **Flask-based web application** that visualizes moto
 ## Screenshots
 
 **Monitoring Dashboard:**  
-
-![Monitoring Dashboard](templates/XYZ_Values.PNG)  
+<img src="templates/XYZ_Values.PNG" alt="Monitoring Dashboard" width="400">
 
 **Circuit Design 1:**  
-
-![Circuit Design 1](templates/Motor_maintenance_system.jpeg)  
-
-**Circuit Design 2:**  
-
-![Circuit Design 2](templates/Fluxgate_sensor.jpeg)  
+<img src="templates/Motor_maintenance_system.jpeg" alt="Circuit Design 1" width="400">
 
 **Circuit Design 2:**  
+<img src="templates/Fluxgate_sensor.jpeg" alt="Circuit Design 2" width="400">
 
-![DataBasae](templates/Database.jfif) 
+**Database:**  
+<img src="templates/Database.jfif" alt="Database" width="400">
+
 
 ### Potential Improvements
 
